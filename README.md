@@ -3,11 +3,7 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/samita-khanduri-5b1830250/">
-  <img height="400" src="![alt text](image.png)"/>
-</a>
-
-<img height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjcycW5zZ2JjNW9yMmd5Zzh1YXQ0YXdjcmEwMXQ0ODJucmd5eDB0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
+<img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjcycW5zZ2JjNW9yMmd5Zzh1YXQ0YXdjcmEwMXQ0ODJucmd5eDB0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 ```yaml
 name : Samita
